@@ -14,3 +14,5 @@ Users are expected to enter a csv file template with the following house informa
 
 The output is a prediction of the house price of the features entered above. The house price is displayed on the application. For example, a house with the following features;
 3 bedrooms, 2.25 bathroom, 2230 sqft_living, 1 floor, 4 condition, grade of 8, 1510 sqft_above, 720 sqft_basement, 40 years of age and located in the 98006 area is predicted to cost $702,721.76. I have included an input_data file to test the program
+
+I included a jupyter noteboook file where i did the data cleaning and some feature selection and then a .py file where i built it into an application that recieves a user input(file) to display the prediction. 
